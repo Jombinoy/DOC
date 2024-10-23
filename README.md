@@ -5,7 +5,7 @@
 
 ## Executive Summary
 
-We have developed a robust Python-based solution to efficiently transfer call transcript videos from traq.ai (Google Cloud Storage) to Azure Blob Storage. This document outlines the process, requirements, implementation details, and provides the full source code for review and implementation.
+I have developed a robust Python-based solution to efficiently transfer call transcript videos from traq.ai (Google Cloud Storage) to Azure Blob Storage. This document outlines the process, requirements, implementation details, and provides the full source code for review and implementation.
 
 ## 1. Project Overview
 
