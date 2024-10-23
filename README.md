@@ -332,5 +332,3 @@ if __name__ == "__main__":
 For any issues or questions regarding this transfer solution, please contact the development team. Regular updates and maintenance will be performed to ensure compatibility with any changes in the traq.ai or Azure Blob Storage systems.
 
 ---
-
-This comprehensive document provides a detailed overview of the video transfer solution, including the full source code, implementation details, and step-by-step instructions for use. It should give your team lead a clear understanding of the solution's capabilities and the process for implementing the video transfer from traq.ai to Azure Blob Storage.
